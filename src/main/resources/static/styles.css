@@ -1,0 +1,11 @@
+.top-nav {
+    background-color: #eee;
+    width: 100vw;
+}
+.top-nav > a {
+    display: inline-block;
+    padding: 10px 15px;
+}
+.top-nav > a:hover {
+    background-color: rgba(0,0,0,.2);
+}
